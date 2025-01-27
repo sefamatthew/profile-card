@@ -1,4 +1,4 @@
-Profile Card
+                                     Profile Card
 
 This project is a simple and responsive profile card built with HTML and CSS. It features a profile image, name, location, a short bio, and buttons linking to social media or other platforms.
 
